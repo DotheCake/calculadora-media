@@ -19,3 +19,6 @@ console.log((N1+N2+N3+N4)/4)
 media = (N1+N2+N3+N4)/4
 
 console.log(media)
+
+nome = prompt("informe seu nome")
+alert("Olá " + nome + " sua média é: " + media)
